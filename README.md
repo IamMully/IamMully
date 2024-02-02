@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with [Expo.dev](https://expo.dev/)
 
-- 👨‍💻 All of my projects are available at [https://mully.dev/](https://mully.dev/)
+- 👨‍💻 All of my projects are available at [mully.dev/projects](https://mully.dev/projects)
 
-- 📝 I regularly write articles on [https://mully.dev/blog](https://mully.dev/blog)
+- 📝 I regularly write articles on [mully.dev/blog](https://mully.dev/blog)
 
 - 💬 Ask me about **MERN, Next.js, Discord.js**
 
