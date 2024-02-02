@@ -13,13 +13,19 @@
 
 - 👯 I’m looking to collaborate on [Nextjs webapps](https://nextjs.org/)
 
+- 💬 Ask me about **MERN, Next.js, Discord.js**
+
 - 🤝 I’m looking for help with [Expo.dev](https://expo.dev/)
 
 - 👨‍💻 All of my projects are available at [mully.dev/projects](https://mully.dev/projects)
 
 - 📝 I regularly write articles on [mully.dev/blog](https://mully.dev/blog)
 
-- 💬 Ask me about **MERN, Next.js, Discord.js**
+- 📄 Know about [my experiences](https://mully.dev/My_New_Resume.pdf)
+
+- 📫 How to reach me **me@mully.dev**
+
+- ⚡ Fun fact **I ❤️ MMOs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
