@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **me@mully.dev**
 
-- ⚡ Fun fact **I ❤️ MMOs!**
+- ⚡ Fun fact **I ❤️ MMOs & [Anime](https://anilist.co/user/MullyObviously/)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
